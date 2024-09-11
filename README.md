@@ -1,0 +1,2 @@
+MLSA Assignment 2
+WORD COUNTING CODE
